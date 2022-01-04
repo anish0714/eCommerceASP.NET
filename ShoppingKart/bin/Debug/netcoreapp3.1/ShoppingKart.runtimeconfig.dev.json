@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\irock\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\irock\\.nuget\\packages"
+    ]
+  }
+}
